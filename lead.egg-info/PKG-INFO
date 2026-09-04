@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: lead
+Version: 0.0.1
+Summary: LEAD: Minimizing Learner-Expert Asymmetry in End-to-End Driving
+Requires-Python: >=3.10
+License-File: LICENSE
+Provides-Extra: dev
+Dynamic: license-file
